@@ -56,7 +56,7 @@ def main():
 
 
     autoscroll = True
-    
+
     while 1:
         if pygame.event.peek(pygame.QUIT):
             pygame.quit()
